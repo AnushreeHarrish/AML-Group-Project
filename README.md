@@ -42,7 +42,7 @@ We trained and compared five architectures on WaRP-C:
 
 |Model|Role|
 |-|-|
-|**ViT-B/16**|Main model — Vision Transformer with ImageNet-21k pre-trained weights|
+|**ViT-B/16**|Main model - Vision Transformer with ImageNet-21k pre-trained weights|
 |**ConvNeXt-Tiny**|Modernised CNN with ViT-inspired design choices|
 |**CoAtNet-0**|Hybrid combining depthwise convolutions and self-attention|
 |**Swin Transformer**|Hierarchical ViT variant with shifted window attention|
